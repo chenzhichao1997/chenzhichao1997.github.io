@@ -49,7 +49,7 @@ redirect_from:
 [[网页]](https://www.sciencedirect.com/science/article/pii/S0921344921006984)
 - `Chen Z`, Yang J, Chen L, et al. Efficient railway track region segmentation algorithm based on lightweight neural network and cross-fusion decoder[J]. Automation in Construction, 2023, 155: 105069. (中科院1区Top期刊；IF:10.3)[[网页]](https://www.sciencedirect.com/science/article/pii/S0926580523003291)
 - `Chen Z`, Yang J, Feng Z, et al. BiShuffleNeXt: a lightweight bi-path network for remote sensing scene classification[J]. Measurement, 2023, 209: 112537. (Top期刊, JCR:Q1；IF:5.2)[[网页]](https://www.sciencedirect.com/science/article/pii/S026322412300101X)
-- `Chen Z`, Guo H, Yang J, et al. Fast vehicle detection algorithm in traffic scene based on improved SSD[J]. Measurement, 2022, 201: 111655. (Top期刊, JCR:Q1；IF:5.2)
+- `Chen Z`, Guo H, Yang J, et al. Fast vehicle detection algorithm in traffic scene based on improved SSD[J]. Measurement, 2022, 201: 111655. (Top期刊, JCR:Q1；IF:5.2)[[网页]](https://www.sciencedirect.com/science/article/pii/S0263224122008636)
 - `Chen Z`, Yang J, Yang C. Brightsightnet: A lightweight progressive low-light image enhancement network and its application in “rainbow” maglev train[J]. Journal of King Saud University-Computer and Information Sciences, 2023, 35(10): 101814. (JCR:Q1；IF:6.9)[[网页]](https://www.sciencedirect.com/science/article/pii/S1319157823003683)
 ### 中文
 ---
