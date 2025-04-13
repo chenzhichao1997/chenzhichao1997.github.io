@@ -54,6 +54,7 @@ redirect_from:
 - `Chen Z`, Yang J, Feng Z, et al. RSCNet: an efficient remote sensing scene classification model based on lightweight convolution neural networks[J]. Electronics, 2022, 11(22): 3727. (SCI index)
 - Feng Z, Yang J, `Chen Z`, et al. LRseg: An efficient railway region extraction method based on lightweight encoder and self-correcting decoder[J]. Expert Systems with Applications, 2024, 238: 122386. (中科院1区Top期刊；IF:7.9)[[网页]](https://www.sciencedirect.com/science/article/pii/S0957417423028889)
 - Feng Z, Yang J, `Chen Z`, et al. Pseudo-Multimodal Lane Segmentation Method Based on Inaccurate Depth Information for Intelligent Vehicles[J]. IEEE Transactions on Intelligent Vehicles, 2024.(中科院1区Top期刊；IF:14.0)[[网页]](https://ieeexplore.ieee.org/abstract/document/10638798/)
+- Li F, `Chen Z`, Yang J, et al. Electric trucks pantograph-catenary interaction condition monitoring method based on semantic segmentation network and linear fitting[J]. Physica Scripta, 2024, 99(12): 126005. (SCI index)
 ### 中文
 ---
 
