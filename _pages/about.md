@@ -44,7 +44,7 @@ redirect_from:
 ---
 
 -	`Chen Z`, Yang J, Feng Z, et al. RailFOD23: A dataset for foreign object detection on railroad transmission lines[J]. Scientific Data, 2024, 11(1): 72. (ESI top 1% 高被引论文, JCR:Q1; IF:9.8)  
-[[网页]]([https://dx.doi.org/10.1016/j.sna.2021.113091](https://www.nature.com/articles/s41597-024-02918-9)) 
+[[网页]]([https://www.nature.com/articles/s41597-024-02918-9]) 
 
 </div>
 </div>
