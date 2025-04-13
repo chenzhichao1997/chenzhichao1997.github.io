@@ -79,7 +79,7 @@ redirect_from:
 
 
 
-# 学术兼职
+# ✒️ 学术兼职
 长期担任以下期刊/会议的审稿人：
 - IEEE T-ITS(1区Top期刊)
 - IJCAI(CCF A类会议)
