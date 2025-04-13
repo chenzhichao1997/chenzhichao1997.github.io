@@ -40,7 +40,7 @@ redirect_from:
 
 # 📝 论文专利
 
-### 英文
+### 英文论文
 ---
 
 -	`Chen Z`, Yang J, Feng Z, et al. RailFOD23: A dataset for foreign object detection on railroad transmission lines[J]. Scientific Data, 2024, 11(1): 72. (Nature子刊, ESI Top 1% 高被引论文, JCR:Q1; IF:9.8)  
@@ -55,6 +55,10 @@ redirect_from:
 - Feng Z, Yang J, `Chen Z`, et al. LRseg: An efficient railway region extraction method based on lightweight encoder and self-correcting decoder[J]. Expert Systems with Applications, 2024, 238: 122386. (中科院1区Top期刊；IF:7.9)[[网页]](https://www.sciencedirect.com/science/article/pii/S0957417423028889)
 - Feng Z, Yang J, `Chen Z`, et al. Pseudo-Multimodal Lane Segmentation Method Based on Inaccurate Depth Information for Intelligent Vehicles[J]. IEEE Transactions on Intelligent Vehicles, 2024.(中科院1区Top期刊；IF:14.0)[[网页]](https://ieeexplore.ieee.org/abstract/document/10638798/)
 - Li F, `Chen Z`, Yang J, et al. Electric trucks pantograph-catenary interaction condition monitoring method based on semantic segmentation network and linear fitting[J]. Physica Scripta, 2024, 99(12): 126005. (SCI index)
+
+
+
+
 ### 中文
 ---
 
