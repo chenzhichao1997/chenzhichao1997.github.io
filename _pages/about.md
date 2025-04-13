@@ -43,7 +43,7 @@ redirect_from:
 ### 英文
 ---
 
--	`Chen Z`, Yang J, Feng Z, et al. RailFOD23: A dataset for foreign object detection on railroad transmission lines[J]. Scientific Data, 2024, 11(1): 72. (ESI Top 1% 高被引论文, JCR:Q1; IF:9.8)  
+-	`Chen Z`, Yang J, Feng Z, et al. RailFOD23: A dataset for foreign object detection on railroad transmission lines[J]. Scientific Data, 2024, 11(1): 72. (Nature子刊, ESI Top 1% 高被引论文, JCR:Q1; IF:9.8)  
 [[网页]](https://www.nature.com/articles/s41597-024-02918-9) 
 -	`Chen Z`, Yang J, Chen L, et al. Garbage classification system based on improved ShuffleNet v2[J]. Resources, Conservation and Recycling, 2022, 178: 106090. (ESI Top 1% 高被引论文, 中科院1区Top期刊; IF:13.2)  
 [[网页]](https://www.sciencedirect.com/science/article/pii/S0921344921006984)
