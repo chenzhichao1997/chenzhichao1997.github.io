@@ -79,13 +79,12 @@ redirect_from:
 - 冯志成,杨杰,`陈智超`.基于轻量级Transformer的城市路网提取方法[J].浙江大学学报(工学版),2024,58(01):40-49+108. (卓越期刊梯队计划，EI期刊)
 - 刘朝辉,杨杰,`陈智超`.基于深度学习的轨道表面异物识别方法[J].中国铁道科学,2023,44(03):23-33. (卓越期刊梯队计划，EI期刊)
 - 李凡,杨杰,冯志成,`陈智超`.基于图像识别的弓网接触点检测方法[J].浙江大学学报(工学版),2024,58(09):1801-1810. (卓越期刊梯队计划，EI期刊)
-### 专利
+### 专利/软件著作权
 ---
-- 康宜华, `唐健`. 一种基于铁磁性板的缺陷检测方法. [[网页]](https://cprs.patentstar.com.cn/Search/Detail?ANE=9IBC8DFA9GCB8DEA6FAA9HHFCICA1BAA9ACB9EGC9GAA6AAA)
-- 康宜华, `唐健`. 基于电磁原理的倒角测量装置.[[网页]](http://www.wanfangdata.com.cn/details/detail.do?_type=patent&id=CN201921137073.X)
-- 伍剑波, 王杰, 方辉, `唐健`. 一种钢管脉冲磁化漏磁探伤装置. [[网页]](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2016&filename=CN105334260A&v=) 
-- 伍剑波, `唐健`, 王杰, 方辉. 一种基于动生涡电流的金属管件电磁无损检测装置. [[网页]](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2016&filename=CN105510433A&v=) 
-- 刁燕, 陈敏, 王荣彪, `唐健`, 蒲廷燕, 都健. 一种基于绳体拉力传动的机械手. [[网页]](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2016&filename=CN105773598A&v=) 
+- 国家发明专利获批, 垃圾分类方法，ZL202011461877.2(导师第一，本人第二)
+- 发明专利受理，悬挂式永磁磁浮轨道梁内宽检测装置(排名第 4)
+- 软件著作权，悬挂式空轨野外无线数据采集系统，2023SR0794864(排名第 1)
+
 
 
 
