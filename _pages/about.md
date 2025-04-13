@@ -33,7 +33,7 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2016.06 - 2022.12*, <a href="https://www.hust.edu.cn/"></a> 江西理工大学 电气工程与自动化学院, 江西赣州, 推免硕博连读 
+- *2020.09 - 2025.6*, <a href="https://www.hust.edu.cn/"></a> 江西理工大学 电气工程与自动化学院, 江西赣州, 推免/硕博连读 
 - *2016.09 - 2020.06*, <a href="https://www.scu.edu.cn/"></a> 江西理工大学 电气工程与自动化学院, 江西赣州, 本科
  
 <span class='anchor' id='-lwzl'></span>
