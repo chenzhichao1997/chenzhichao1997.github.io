@@ -92,7 +92,10 @@ redirect_from:
 长期担任以下期刊/会议的审稿人：
 - IEEE T-ITS(1区Top期刊)
 - IJCAI(CCF A类会议)
-
+- Measurement
+- Applied Intelligence
+- Sensors 
+- Scientific Reports
 
 <span class='anchor' id='-ryjx'></span>
 
