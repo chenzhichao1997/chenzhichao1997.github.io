@@ -50,7 +50,7 @@ Circuits and Systems for Video Technology》（IF:8.3）、《Scientific Data》
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Scientific Data 2024</div><img src='images/1.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Scientific Data 2024</div><img src='images/2.jpg' alt="sym" width="100%"></div></div>
 -	`Chen Z`, Yang J, Chen L, et al. Garbage classification system based on improved ShuffleNet v2[J]. Resources, Conservation and Recycling, 2022, 178: 106090. (ESI Top 1% 高被引论文, 中科院1区Top期刊; IF:13.2)[[网页]](https://www.sciencedirect.com/science/article/pii/S0921344921006984)
 
 </div>
