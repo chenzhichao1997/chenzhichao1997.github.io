@@ -41,7 +41,7 @@ Circuits and Systems for Video Technology》（IF:8.3）、《Scientific Data》
 - **Chen Z**, Yang J, Zhou F. RailSegVITNet: A lightweight VIT-based real-time track surface segmentation network for improving railroad safety[J]. *Journal of King Saud University-Computer and Information Sciences*, 36(1):101929, 2024.  
 （**JCR Q1，IF: 6.9**）
 
-**Chen Z**, Yang J, Feng Z, et al. **RailFOD23: A dataset for foreign object detection on railroad transmission lines**[J]. *Scientific Data*, 11(1):72, 2024.  
+- **Chen Z**, Yang J, Feng Z, et al. **RailFOD23: A dataset for foreign object detection on railroad transmission lines**[J]. *Scientific Data*, 11(1):72, 2024.  
 （**Nature 子刊，ESI 高被引，JCR Q1，IF: 9.8**）
 
 Feng Z, Yang J, **Chen Z**, et al. LRseg: An efficient railway region extraction method based on lightweight encoder and self-correcting decoder[J]. *Expert Systems with Applications*, 238:122386, 2024.  
