@@ -16,10 +16,23 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-# 👤 个人简介
-围绕智能、绿色和安全的轨道交通发展需求，基于人工智能算法创新与多传感器数据融合互补的理念，提出一系列基于视觉、多模态信息融合的轻量化感知方法，为提升列车辅助驾驶、预警感知和事故溯源等方面的安全技术水平提供理论基础和工程参考。在学术成果方面，谷歌学术被引500次，其中包含2篇高被引论文。一作在《Resources, Conservation and Recycling》（IF:13.2）、《Automation in Construction》（IF: 10.3）、《IEEE Transactions on
-Circuits and Systems for Video Technology》（IF:11.2）、《Scientific Data》（IF:9.8）、《Measurement》（IF:5.6）等权威期刊发表12篇SCI或EI检索论文。在创新实践方面，以队长身份在研究生电子设计竞赛和华为杯物联网大赛中均获全国一等奖。在校期间表现优异，获得博士研究生国家奖学金，江西省政府奖学金。
+<!-- 👤 个人简介 -->
+<section class="max-w-4xl mx-auto px-4 py-10">
+  <h2 class="text-2xl font-bold mb-4">👤 个人简介</h2>
+  <p class="text-gray-700 leading-relaxed mb-4">
+    围绕智能、绿色和安全的轨道交通发展需求，本人基于人工智能算法创新与多传感器数据融合互补的理念，提出了一系列面向视觉和多模态融合的轻量化感知方法，为列车辅助驾驶、预警感知和事故溯源等环节提供了理论基础与工程参考。
+  </p>
+  <p class="text-gray-700 leading-relaxed mb-4">
+    学术方面，谷歌学术被引超过 500 次，含 2 篇高被引论文。以第一作者身份在《Resources, Conservation and Recycling》（IF:13.2）、《Automation in Construction》（IF:10.3）、《IEEE TCSVT》（IF:11.2）、《Scientific Data》（IF:9.8）、《Measurement》（IF:5.6）等期刊发表 SCI/EI 检索论文 12 篇。
+  </p>
+  <p class="text-gray-700 leading-relaxed mb-4">
+    实践方面，作为队长带领团队在研究生电子设计竞赛、华为杯物联网大赛中均获全国一等奖。在校期间表现优异，获博士研究生国家奖学金、江西省政府奖学金等多项荣誉。
+  </p>
+</section>
+
 <hr style="border: none; border-top: 1.5px solid #000;" />
+
+<!-- 🎓 研究方向与招生 -->
 <section class="max-w-4xl mx-auto px-4 py-10">
   <h2 class="text-2xl font-bold mb-4">研究方向与招生</h2>
   <p class="text-gray-700 leading-relaxed mb-6">
@@ -33,8 +46,19 @@ Circuits and Systems for Video Technology》（IF:11.2）、《Scientific Data�
     <li>大模型的分布式训练与部署</li>
     <li>自动驾驶与智能决策</li>
   </ul>
-  <p class="text-gray-700 leading-relaxed mb-6">
-  欢迎对<strong>人工智能、电子信息、嵌入式系统、物联网</strong>等方向感兴趣的同学报考硕士研究生，或以本科生身份参与科研项目。 每个人都有属于自己的节奏和闪光点。课题组希望成为你探索兴趣、积累能力的起点，提供安静专注的科研环境，也提供温暖支持的成长空间。鼓励学生在实践中慢慢找到方向，愿意倾听每一个想法，陪你一起尝试、一起解决问题。有的同学获得了国家奖学金，有的本科生发表了自己的第一篇学术论文，也有的同学更喜欢专注工程实现或技术应用。无论你的目标是继续深造，还是走向企业，课题组都尊重你的选择，愿意为你提供力所能及的帮助。如果你希望在一个自由、包容、有温度的环境中开启一段踏实的成长旅程，欢迎通过邮箱联系我📬：<a href="mailto:chenzhichao_ai@163.com" class="text-blue-600 underline">chenzhichao_ai@163.com</a>
+  <p class="text-gray-700 leading-relaxed mb-4">
+    欢迎对<strong>人工智能、电子信息、嵌入式系统、物联网</strong>等方向感兴趣的同学报考硕士研究生，或以本科生身份参与科研项目。我们相信，每个人都有属于自己的节奏和闪光点。
+  </p>
+  <p class="text-gray-700 leading-relaxed mb-4">
+    课题组希望成为你探索兴趣、积累能力的起点，提供安静专注的科研环境，也提供温暖支持的成长空间。我们鼓励学生在实践中慢慢找到方向，愿意倾听每一个想法，陪你一起尝试、一起解决问题。
+  </p>
+  <p class="text-gray-700 leading-relaxed mb-4">
+    有的同学获得了国家奖学金，有的本科生发表了自己的第一篇学术论文，也有的同学更喜欢专注工程实现或技术应用。无论你的目标是继续深造，还是走向企业，课题组都尊重你的选择，愿意为你提供力所能及的帮助。
+  </p>
+  <p class="text-gray-700 leading-relaxed">
+    📬 如果你希望在一个<strong>自由、包容、有温度</strong>的环境中开启一段踏实的成长旅程，欢迎通过邮箱联系我：
+    <a href="mailto:chenzhichao_ai@163.com" class="text-blue-600 underline">chenzhichao_ai@163.com</a>
+  </p>
 </section>
 
 
