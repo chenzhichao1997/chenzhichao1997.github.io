@@ -38,7 +38,7 @@ Circuits and Systems for Video Technology》（IF:8.3）、《Scientific Data》
 
 # 📚 论文发表
 
-**Chen Z**, Yang J, Zhou F. RailSegVITNet: A lightweight VIT-based real-time track surface segmentation network for improving railroad safety[J]. *Journal of King Saud University-Computer and Information Sciences*, 36(1):101929, 2024.  
+-**Chen Z**, Yang J, Zhou F. RailSegVITNet: A lightweight VIT-based real-time track surface segmentation network for improving railroad safety[J]. *Journal of King Saud University-Computer and Information Sciences*, 36(1):101929, 2024.  
 （**JCR Q1，IF: 6.9**）
 
 **Chen Z**, Yang J, Feng Z, et al. **RailFOD23: A dataset for foreign object detection on railroad transmission lines**[J]. *Scientific Data*, 11(1):72, 2024.  
