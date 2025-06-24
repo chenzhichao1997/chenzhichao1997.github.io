@@ -45,12 +45,10 @@ Circuits and Systems for Video Technology》（IF:8.3）、《Scientific Data》
 （**中科院 1 区 Top 期刊，IF: 7.9**）
 - Feng Z, Yang J, **Chen Z**, et al. **Pseudo-Multimodal Lane Segmentation Method Based on Inaccurate Depth Information for Intelligent Vehicles**[J]. *IEEE Transactions on Intelligent Vehicles*, 2024.  
 （**中科院 1 区 Top 期刊，IF: 14.0**）
-- Li F, **Chen Z**, Yang J, et al. Electric trucks pantograph-catenary interaction condition monitoring method based on semantic segmentation network and linear fitting[J]. *Physica Scripta*, 99(12):126005, 2024.  
-（SCI）
+- Li F, **Chen Z**, Yang J, et al. Electric trucks pantograph-catenary interaction condition monitoring method based on semantic segmentation network and linear fitting[J]. *Physica Scripta*, 99(12):126005, 2024.  （SCI）
 - **Chen Z**, Yang J, Chen L, et al. **Efficient railway track region segmentation algorithm based on lightweight neural network and cross-fusion decoder**[J]. *Automation in Construction*, 155:105069, 2023.  
 （**中科院 1 区 Top 期刊，IF: 10.3**）
-- **Chen Z**, Yang J, Feng Z, et al. BiShuffleNeXt: a lightweight bi-path network for remote sensing scene classification[J]. *Measurement*, 209:112537, 2023.  
-（JCR Q1，**Top期刊**, IF: 5.2）
+- **Chen Z**, Yang J, Feng Z, et al. BiShuffleNeXt: a lightweight bi-path network for remote sensing scene classification[J]. *Measurement*, 209:112537, 2023. （JCR Q1，**Top期刊**, IF: 5.2）
 - **Chen Z**, Yang J, Yang C. Brightsightnet: A lightweight progressive low-light image enhancement network and its application in “rainbow” maglev train[J]. *Journal of King Saud University-Computer and Information Sciences*, 35(10):101814, 2023.  （JCR Q1，IF: 6.9）
 - 陈丽芳, 杨火根, **陈智超**, 杨杰. B样条技术与遗传算法融合的全局路径规划[J]. *浙江大学学报(工学版)*, 58(12):2520–2530, 2024.  （卓越期刊梯队计划，EI期刊）
 - 李凡, 杨杰, 冯志成, **陈智超**. 基于图像识别的弓网接触点检测方法[J]. *浙江大学学报(工学版)*, 58(09):1801–1810, 2024.  （卓越期刊梯队计划，EI期刊）
