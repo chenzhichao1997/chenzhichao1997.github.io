@@ -32,60 +32,42 @@ Circuits and Systems for Video Technology》（IF:8.3）、《Scientific Data》
   
 
 
-<span class='anchor' id='-xl'></span>
 
-# 🎓 学历
-- *2020.09 - 2025.6*, <a href="https://www.hust.edu.cn/"></a> 江西理工大学 电气工程与自动化学院, 江西赣州, 免学费保研推免/硕博连读 
-- *2016.09 - 2020.06*, <a href="https://www.scu.edu.cn/"></a> 江西理工大学 电气工程与自动化学院, 江西赣州, 本科
  
 <span class='anchor' id='-lwzl'></span>
 
 # 📝 论文专利
 
-## 📚 Selected Publications (By Year, Recent First)
+### 英文论文
+---
+-	`Chen Z`, Yang J, Feng Z, et al. RailFOD23: A dataset for foreign object detection on railroad transmission lines[J]. Scientific Data, 2024, 11(1): 72. (Nature子刊, ESI Top 1% 高被引论文, JCR:Q1; IF:9.8)[[网页]](https://www.nature.com/articles/s41597-024-02918-9) [2024.1]
+-	`Chen Z`, Yang J, Chen L, et al. Garbage classification system based on improved ShuffleNet v2[J]. Resources, Conservation and Recycling, 2022, 178: 106090. (ESI Top 1% 高被引论文, 中科院1区Top期刊; IF:13.2)[[网页]](https://www.sciencedirect.com/science/article/pii/S0921344921006984) [2022.3]
+- `Chen Z`, Yang J, Chen L, et al. Efficient railway track region segmentation algorithm based on lightweight neural network and cross-fusion decoder[J]. Automation in Construction, 2023, 155: 105069. (中科院1区Top期刊；IF:10.3)[[网页]](https://www.sciencedirect.com/science/article/pii/S0926580523003291) [2023.11]
+- `Chen Z`, Yang J, Li Fan, et al. Foreign Object Detection Method for Railway Catenary Based on a Scarce Image Generation Model and Lightweight Perception Architecture[J]. IEEE Transactions on Circuits and Systems for Video Technology. (中科院1区Top期刊；IF:8.3，录用，即将见刊)
+- Chen L*,`Chen Z*`, Yan L, Chen Y, Guan F, Li P. Optimal Distributed Training With Co-Adaptive Data Parallelism in Heterogeneous Environments[C]//IJCAI 2025. (录用, 共同一作, CCF A 类会议)
+- `Chen Z`, Yang J, Feng Z, et al. BiShuffleNeXt: a lightweight bi-path network for remote sensing scene classification[J]. Measurement, 2023, 209: 112537. (Top期刊, JCR:Q1；IF:5.2)[[网页]](https://www.sciencedirect.com/science/article/pii/S026322412300101X) [2023.3]
+- `Chen Z`, Guo H, Yang J, et al. Fast vehicle detection algorithm in traffic scene based on improved SSD[J]. Measurement, 2022, 201: 111655. (Top期刊, JCR:Q1；IF:5.2)[[网页]](https://www.sciencedirect.com/science/article/pii/S0263224122008636) [2022.9]
+- `Chen Z`, Yang J, Yang C. Brightsightnet: A lightweight progressive low-light image enhancement network and its application in “rainbow” maglev train[J]. Journal of King Saud University-Computer and Information Sciences, 2023, 35(10): 101814. (JCR:Q1；IF:6.9)[[网页]](https://www.sciencedirect.com/science/article/pii/S1319157823003683) [2023.12]
+- `Chen Z`, Yang J, Zhou F. RailSegVITNet: A lightweight VIT-based real-time track surface segmentation network for improving railroad safety[J]. Journal of King Saud University-Computer and Information Sciences, 2024, 36(1): 101929.[[网页]](https://www.sciencedirect.com/science/article/pii/S1319157824000181) (JCR:Q1；IF:6.9) [2024.1]
+- `Chen Z`, Yang J, Feng Z, et al. RSCNet: an efficient remote sensing scene classification model based on lightweight convolution neural networks[J]. Electronics, 2022, 11(22): 3727. (SCI index)[[网页]](https://www.mdpi.com/2079-9292/11/22/3727) [2022.11]
+- Feng Z, Yang J, `Chen Z`, et al. LRseg: An efficient railway region extraction method based on lightweight encoder and self-correcting decoder[J]. Expert Systems with Applications, 2024, 238: 122386. (中科院1区Top期刊；IF:7.9)[[网页]](https://www.sciencedirect.com/science/article/pii/S0957417423028889)
+- Feng Z, Yang J, `Chen Z`, et al. Pseudo-Multimodal Lane Segmentation Method Based on Inaccurate Depth Information for Intelligent Vehicles[J]. IEEE Transactions on Intelligent Vehicles, 2024.(中科院1区Top期刊；IF:14.0[[网页]](https://ieeexplore.ieee.org/abstract/document/10638798/)
+- Li F, `Chen Z`, Yang J, et al. Electric trucks pantograph-catenary interaction condition monitoring method based on semantic segmentation network and linear fitting[J]. Physica Scripta, 2024, 99(12): 126005. (SCI index)[[网页]](https://iopscience.iop.org/article/10.1088/1402-4896/ad8b7d/meta)
+- `Chen Z`, Yang J, Li F, et al. Real-Time Low-Light Image Enhancement Method for Train Driving Scene Based on Improved Zero-DCE[C]//International Conference on Electrical and Information Technologies for Rail Transportation. Singapore: Springer Nature Singapore, 2023: 9-18.(EI conference index)[[网页]](https://link.springer.com/chapter/10.1007/978-981-99-9319-2_2)
 
-- **Chen Z**, Yang J, Chen L, et al. *Foreign Object Detection Method for Railway Catenary Based on a Scarce Image Generation Model and Lightweight Perception Architecture*. *IEEE Transactions on Circuits and Systems for Video Technology*.  
-  *(中科院1区Top期刊；IF:8.3，录用，即将见刊)*
 
-- Chen L*, **Chen Z***, Yan L, Chen Y, Guan F, Li P. *Optimal Distributed Training With Co-Adaptive Data Parallelism in Heterogeneous Environments*. *IJCAI 2025*.  
-  *(录用, 共同一作, CCF A 类会议)*
 
-- **Chen Z**, Yang J, Feng Z, et al. *RailFOD23: A dataset for foreign object detection on railroad transmission lines*. *Scientific Data*, 2024, 11(1): 72.  
-  *(Nature子刊, ESI Top 1% 高被引论文, JCR:Q1; IF:9.8)*
 
-- **Chen Z**, Yang J, Zhou F. *RailSegVITNet: A lightweight VIT-based real-time track surface segmentation network for improving railroad safety*. *Journal of King Saud University - Computer and Information Sciences*, 2024, 36(1): 101929.  
-  *(JCR:Q1；IF:6.9)*
 
-- Feng Z, Yang J, **Chen Z**, et al. *LRseg: An efficient railway region extraction method based on lightweight encoder and self-correcting decoder*. *Expert Systems with Applications*, 2024, 238: 122386.  
-  *(中科院1区Top期刊；IF:7.9)*
+### 中文论文
+---
 
-- Feng Z, Yang J, **Chen Z**, et al. *Pseudo-Multimodal Lane Segmentation Method Based on Inaccurate Depth Information for Intelligent Vehicles*. *IEEE Transactions on Intelligent Vehicles*, 2024.  
-  *(中科院1区Top期刊；IF:14.0)*
-
-- Li F, **Chen Z**, Yang J, et al. *Electric trucks pantograph-catenary interaction condition monitoring method based on semantic segmentation network and linear fitting*. *Physica Scripta*, 2024, 99(12): 126005.  
-  *(SCI index)*
-
-- **Chen Z**, Yang J, Chen L, et al. *Efficient railway track region segmentation algorithm based on lightweight neural network and cross-fusion decoder*. *Automation in Construction*, 2023, 155: 105069.  
-  *(中科院1区Top期刊；IF:10.3)*
-
-- **Chen Z**, Yang J, Yang C. *Brightsightnet: A lightweight progressive low-light image enhancement network and its application in “rainbow” maglev train*. *Journal of King Saud University - Computer and Information Sciences*, 2023, 35(10): 101814.  
-  *(JCR:Q1；IF:6.9)*
-
-- **Chen Z**, Yang J, Feng Z, et al. *BiShuffleNeXt: A lightweight bi-path network for remote sensing scene classification*. *Measurement*, 2023, 209: 112537.  
-  *(Top期刊, JCR:Q1；IF:5.2)*
-
-- **Chen Z**, Yang J, Li F, et al. *Real-Time Low-Light Image Enhancement Method for Train Driving Scene Based on Improved Zero-DCE*. *International Conference on Electrical and Information Technologies for Rail Transportation*, 2023: 9–18.  
-  *(EI conference index)*
-
-- **Chen Z**, Yang J, Chen L, et al. *Garbage classification system based on improved ShuffleNet v2*. *Resources, Conservation and Recycling*, 2022, 178: 106090.  
-  *(ESI Top 1% 高被引论文, 中科院1区Top期刊; IF:13.2)*
-
-- **Chen Z**, Guo H, Yang J, et al. *Fast vehicle detection algorithm in traffic scene based on improved SSD*. *Measurement*, 2022, 201: 111655.  
-  *(Top期刊, JCR:Q1；IF:5.2)*
-
-- **Chen Z**, Yang J, Feng Z, et al. *RSCNet: An efficient remote sensing scene classification model based on lightweight convolution neural networks*. *Electronics*, 2022, 11(22): 3727.  
-  *(SCI index)*
-
+- `陈智超`,杨杰,李凡,冯志成.基于深度学习的列车运行环境感知关键算法研究综述[J].浙江大学学报(工学版),2025,59(01):1-17. (卓越期刊梯队计划，EI期刊)
+- `陈智超`,焦海宁,杨杰,曾华福.基于改进MobileNet v2的垃圾图像分类算法[J].浙江大学学报(工学版),2021,55(08):1490-1499. (中国知网高被引论文，卓越期刊梯队计划，EI期刊)
+- 陈丽芳,杨火根,`陈智超`,杨杰.B样条技术与遗传算法融合的全局路径规划[J].浙江大学学报(工学版),2024,58(12):2520-2530. (卓越期刊梯队计划，EI期刊)
+- 冯志成,杨杰,`陈智超`.基于轻量级Transformer的城市路网提取方法[J].浙江大学学报(工学版),2024,58(01):40-49+108. (卓越期刊梯队计划，EI期刊)
+- 刘朝辉,杨杰,`陈智超`.基于深度学习的轨道表面异物识别方法[J].中国铁道科学,2023,44(03):23-33. (卓越期刊梯队计划，EI期刊)
+- 李凡,杨杰,冯志成,`陈智超`.基于图像识别的弓网接触点检测方法[J].浙江大学学报(工学版),2024,58(09):1801-1810. (卓越期刊梯队计划，EI期刊)
   
 ### 专利/软件著作权
 ---
