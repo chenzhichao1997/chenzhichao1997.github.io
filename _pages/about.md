@@ -36,9 +36,7 @@ Circuits and Systems for Video Technology》（IF:8.3）、《Scientific Data》
  
 <span class='anchor' id='-lwzl'></span>
 
-# 📝 论文专利
-
-### 英文论文
+# 📝 论文
 ---
 -	`Chen Z`, Yang J, Feng Z, et al. RailFOD23: A dataset for foreign object detection on railroad transmission lines[J]. Scientific Data, 2024, 11(1): 72. (Nature子刊, ESI Top 1% 高被引论文, JCR:Q1; IF:9.8)[[网页]](https://www.nature.com/articles/s41597-024-02918-9) [2024.1]
 -	`Chen Z`, Yang J, Chen L, et al. Garbage classification system based on improved ShuffleNet v2[J]. Resources, Conservation and Recycling, 2022, 178: 106090. (ESI Top 1% 高被引论文, 中科院1区Top期刊; IF:13.2)[[网页]](https://www.sciencedirect.com/science/article/pii/S0921344921006984) [2022.3]
@@ -55,12 +53,6 @@ Circuits and Systems for Video Technology》（IF:8.3）、《Scientific Data》
 - Li F, `Chen Z`, Yang J, et al. Electric trucks pantograph-catenary interaction condition monitoring method based on semantic segmentation network and linear fitting[J]. Physica Scripta, 2024, 99(12): 126005. (SCI index)[[网页]](https://iopscience.iop.org/article/10.1088/1402-4896/ad8b7d/meta)
 - `Chen Z`, Yang J, Li F, et al. Real-Time Low-Light Image Enhancement Method for Train Driving Scene Based on Improved Zero-DCE[C]//International Conference on Electrical and Information Technologies for Rail Transportation. Singapore: Springer Nature Singapore, 2023: 9-18.(EI conference index)[[网页]](https://link.springer.com/chapter/10.1007/978-981-99-9319-2_2)
 
-
-
-
-
-### 中文论文
----
 
 - `陈智超`,杨杰,李凡,冯志成.基于深度学习的列车运行环境感知关键算法研究综述[J].浙江大学学报(工学版),2025,59(01):1-17. (卓越期刊梯队计划，EI期刊)
 - `陈智超`,焦海宁,杨杰,曾华福.基于改进MobileNet v2的垃圾图像分类算法[J].浙江大学学报(工学版),2021,55(08):1490-1499. (中国知网高被引论文，卓越期刊梯队计划，EI期刊)
