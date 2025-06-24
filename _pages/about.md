@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<hr style="border: none; border-top: 3px solid #000;" />
 
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
@@ -19,8 +18,8 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 围绕智能、绿色和安全的轨道交通发展需求，基于人工智能算法创新与多传感器数据融合互补的理念，提出一系列基于视觉、多模态信息融合的轻量化感知方法，为提升列车辅助驾驶、预警感知和事故溯源等方面的安全技术水平提供理论基础和工程参考。在学术成果方面，谷歌学术被引500次，其中包含2篇高被引论文。一作在《Resources, Conservation and Recycling》（IF:13.2）、《Automation in Construction》（IF: 10.3）、《IEEE Transactions on
 Circuits and Systems for Video Technology》（IF:8.3）、《Scientific Data》（IF:9.8）、《Measurement》（IF:5.6）等权威期刊发表12篇SCI或EI检索论文。在创新实践方面，以队长身份在研究生电子设计竞赛和华为杯物联网大赛中均获全国一等奖。在校期间表现优异，获得博士研究生国家奖学金，江西省政府奖学金。
-
 ---
+<hr style="border: none; border-top: 1.5px solid #000;" />
 主要研究领域包括：
 - 二维/三维智能感知
 - 列车安全防护
@@ -30,7 +29,7 @@ Circuits and Systems for Video Technology》（IF:8.3）、《Scientific Data》
 - 嵌入式开发
 - 大模型分布式训练
 - 自动驾驶
-
+<hr style="border: none; border-top: 1.5px solid #000;" />
   
 
 
@@ -101,11 +100,9 @@ Circuits and Systems for Video Technology》（IF:8.3）、《Scientific Data》
 
 <span class='anchor' id='-ryjx'></span>
 
-<hr style="border: none; border-top: 3px solid #000;" />
+
 
 # 🎖️ 荣誉奖项
-
-<hr style="border: none; border-top: 3px solid #000;" />
 
 ## 🎗️ 个人荣誉
 - *2024.05* 江西省政府研究生奖学金（博士）
