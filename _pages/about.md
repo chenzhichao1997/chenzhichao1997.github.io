@@ -37,8 +37,7 @@ Circuits and Systems for Video Technology》（IF:8.3）、《Scientific Data》
 <span class='anchor' id='-lwzl'></span>
 
 # 📚 论文发表
-- Chen L, **Chen Z**, Yan L, Chen Y, Guan F, Li P. **Optimal Distributed Training With Co-Adaptive Data Parallelism in Heterogeneous Environments**[C]//*IJCAI 2025*.  
-（**CCF A**）
+- Chen L, **Chen Z**, Yan L, Chen Y, Guan F, Li P. **Optimal Distributed Training With Co-Adaptive Data Parallelism in Heterogeneous Environments**[C]//*IJCAI 2025*.  （**人工智能顶会，CCF A**）
 - **陈智超**, 杨杰, 李凡, 冯志成. 基于深度学习的列车运行环境感知关键算法研究综述[J]. *浙江大学学报(工学版)*, 59(01):1–17, 2025.  （卓越期刊梯队计划，EI期刊）
 - **Chen Z**, Yang J, Feng Z, et al. **RailFOD23: A dataset for foreign object detection on railroad transmission lines**[J]. *Scientific Data*, 11(1):72, 2024. （**Nature 子刊，ESI 高被引，JCR Q1，IF: 9.8**）
 - **Chen Z**, Yang J, Zhou F. RailSegVITNet: A lightweight VIT-based real-time track surface segmentation network for improving railroad safety[J]. *Journal of King Saud University-Computer and Information Sciences*, 36(1):101929, 2024. （**JCR Q1，IF: 6.9**）
