@@ -20,15 +20,30 @@ redirect_from:
 围绕智能、绿色和安全的轨道交通发展需求，基于人工智能算法创新与多传感器数据融合互补的理念，提出一系列基于视觉、多模态信息融合的轻量化感知方法，为提升列车辅助驾驶、预警感知和事故溯源等方面的安全技术水平提供理论基础和工程参考。在学术成果方面，谷歌学术被引500次，其中包含2篇高被引论文。一作在《Resources, Conservation and Recycling》（IF:13.2）、《Automation in Construction》（IF: 10.3）、《IEEE Transactions on
 Circuits and Systems for Video Technology》（IF:11.2）、《Scientific Data》（IF:9.8）、《Measurement》（IF:5.6）等权威期刊发表12篇SCI或EI检索论文。在创新实践方面，以队长身份在研究生电子设计竞赛和华为杯物联网大赛中均获全国一等奖。在校期间表现优异，获得博士研究生国家奖学金，江西省政府奖学金。
 <hr style="border: none; border-top: 1.5px solid #000;" />
-主要研究领域包括：
-- 二维/三维智能感知
-- 列车安全防护
-- 视觉语言大模型
-- 点云数据处理
-- 模型轻量化
-- 嵌入式开发
-- 大模型分布式训练
-- 自动驾驶
+<section class="max-w-4xl mx-auto px-4 py-10">
+  <h2 class="text-2xl font-bold mb-4">研究方向与招生</h2>
+  <p class="text-gray-700 leading-relaxed mb-6">
+    本课题组专注于<strong>人工智能核心算法与工程应用</strong>的融合研究，主要方向包括：
+  </p>
+  <ul class="list-disc list-inside text-gray-700 mb-6 space-y-1">
+    <li>二维/三维智能感知与多模态融合</li>
+    <li>视觉语言大模型</li>
+    <li>点云处理与轻量化网络</li>
+    <li>嵌入式智能系统开发</li>
+    <li>大模型的分布式训练与部署</li>
+    <li>自动驾驶与智能决策</li>
+  </ul>
+  <p class="text-gray-700 leading-relaxed mb-6">
+    欢迎对<strong>人工智能、电子信息、嵌入式系统、物联网</strong>等方向感兴趣的同学报考硕士研究生，或以本科生身份参与科研项目。
+  </p>
+  <p class="text-gray-700 leading-relaxed mb-6">
+    学生多次获得<strong>国家奖学金</strong>，具备独立科研能力并发表SCI论文；部分本科生亦有高水平论文发表。毕业生部分继续攻读博士（如中科院、985高校），部分就职于<strong>华为、百度、商汤科技、比亚迪</strong>等知名企业。
+  </p>
+  <p class="text-gray-700">
+    📬 有意向的同学可邮件联系：<a href="mailto:chenzhichao_ai@163.com" class="text-blue-600 underline">chenzhichao_ai@163.com</a>
+  </p>
+</section>
+
 
 <hr style="border: none; border-top: 1.5px solid #000;" />  
 <span class='anchor' id='-lwzl'></span>
