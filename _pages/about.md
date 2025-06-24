@@ -36,7 +36,7 @@ Circuits and Systems for Video Technology》（IF:8.3）、《Scientific Data》
  
 <span class='anchor' id='-lwzl'></span>
 
-# 📚 论文成果
+# 📚 论文发表
 
 ---
 
