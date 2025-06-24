@@ -37,10 +37,6 @@ Circuits and Systems for Video Technology》（IF:8.3）、《Scientific Data》
 <span class='anchor' id='-lwzl'></span>
 
 # 📚 论文发表
-# 陈智超 博士论文成果
-
-本文档按照年份分类，整理了陈智超博士自2021年至2025年的所有论文成果，包含会议论文与期刊论文，并标注了来源与影响因子（IF）、分区等信息。
-
 ---
 
 ## 2025
