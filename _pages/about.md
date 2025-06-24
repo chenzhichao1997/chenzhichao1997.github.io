@@ -37,7 +37,7 @@ Circuits and Systems for Video Technology》（IF:11.2）、《Scientific Data�
     欢迎对<strong>人工智能、电子信息、嵌入式系统、物联网</strong>等方向感兴趣的同学报考硕士研究生，或以本科生身份参与科研项目。
   </p>
   <p class="text-gray-700 leading-relaxed mb-6">
-    学生多次获得<strong>国家奖学金</strong>，具备独立科研能力并发表SCI论文；部分本科生亦有高水平论文发表。毕业生部分继续攻读博士（如中科院、985高校），部分就职于<strong>华为、百度、商汤科技、比亚迪</strong>等知名企业。
+    学生多次获得<strong>国家奖学金</strong>，具备独立科研能力并发表SCI论文；部分本科生亦有高水平论文发表。
   </p>
   <p class="text-gray-700">
     📬 有意向的同学可邮件联系：<a href="mailto:chenzhichao_ai@163.com" class="text-blue-600 underline">chenzhichao_ai@163.com</a>
