@@ -44,8 +44,7 @@ Circuits and Systems for Video Technology》（IF:8.3）、《Scientific Data》
 - 陈智超, 杨杰, 李凡, 冯志成. 基于深度学习的列车运行环境感知关键算法研究综述[J]. *浙江大学学报(工学版)*, 59(01):1–17, 2025.  
   （卓越期刊梯队计划，EI期刊）
 
-- Chen L*, Chen Z, Yan L, Chen Y, Guan F, Li P. Optimal Distributed Training With Co-Adaptive Data Parallelism in Heterogeneous Environments[C]//*IJCAI 2025*.  
-  （CCF A 类会议）
+- Chen L, Chen Z, Yan L, Chen Y, Guan F, Li P. Optimal Distributed Training With Co-Adaptive Data Parallelism in Heterogeneous Environments[C]//*IJCAI 2025*.  （CCF A 类会议）
 
 ---
 
