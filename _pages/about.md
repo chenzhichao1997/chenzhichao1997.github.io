@@ -34,14 +34,8 @@ Circuits and Systems for Video Technology》（IF:11.2）、《Scientific Data�
     <li>自动驾驶与智能决策</li>
   </ul>
   <p class="text-gray-700 leading-relaxed mb-6">
-    欢迎对<strong>人工智能、电子信息、嵌入式系统、物联网</strong>等方向感兴趣的同学报考硕士研究生，或以本科生身份参与科研项目。
-  </p>
-  <p class="text-gray-700 leading-relaxed mb-6">
-    学生多次获得<strong>国家奖学金</strong>，具备独立科研能力并发表SCI论文；部分本科生亦有高水平论文发表。
-  </p>
-  <p class="text-gray-700">
-    📬 有意向的同学可邮件联系：<a href="mailto:chenzhichao_ai@163.com" class="text-blue-600 underline">chenzhichao_ai@163.com</a>
-  </p>
+    欢迎对<strong>人工智能、电子信息、嵌入式系统、物联网</strong>等方向感兴趣的同学报考硕士研究生，或以本科生身份参与科研项目。 每个人都有属于自己的节奏和闪光点。课题组希望成为你探索兴趣、积累能力的起点，提供安静专注的科研环境，也提供温暖支持的成长空间。鼓励学生在实践中慢慢找到方向，愿意倾听每一个想法，陪你一起尝试、一起解决问题。有的同学获得了<strong>国家奖学金</strong>，有的本科生发表了自己的第一篇学术论文，也有的同学更喜欢专注工程实现或技术应用。无论你的目标是继续深造，还是走向企业，课题组都尊重你的选择，愿意为你提供力所能及的帮助。如果你希望在一个自由、包容、有温度的环境中开启一段踏实的成长旅程，欢迎通过邮箱联系我📬：<a href="mailto:chenzhichao_ai@163.com" class="text-blue-600 underline">chenzhichao_ai@163.com</a>
+
 </section>
 
 
