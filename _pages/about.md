@@ -40,33 +40,25 @@ Circuits and Systems for Video Technology》（IF:8.3）、《Scientific Data》
 
 ---
 
-### 🗓️ 2025
 
 - 陈智超, 杨杰, 李凡, 冯志成. 基于深度学习的列车运行环境感知关键算法研究综述[J]. *浙江大学学报(工学版)*, 59(01):1–17, 2025.  
   （卓越期刊梯队计划，EI期刊）
 
-- Chen L*, Chen Z*, Yan L, Chen Y, Guan F, Li P. Optimal Distributed Training With Co-Adaptive Data Parallelism in Heterogeneous Environments[C]//*IJCAI 2025*.  
-  （录用, 共同一作, CCF A 类会议）
+- Chen L*, Chen Z, Yan L, Chen Y, Guan F, Li P. Optimal Distributed Training With Co-Adaptive Data Parallelism in Heterogeneous Environments[C]//*IJCAI 2025*.  
+  （CCF A 类会议）
 
 ---
 
-### 🗓️ 2024
-
-- Chen Z, Yang J, Zhou F. RailSegVITNet: A lightweight VIT-based real-time track surface segmentation network for improving railroad safety[J]. *Journal of King Saud University-Computer and Information Sciences*, 36(1):101929, 2024.  
-  （JCR Q1，IF: 6.9）
-
 - Chen Z, Yang J, Feng Z, et al. RailFOD23: A dataset for foreign object detection on railroad transmission lines[J]. *Scientific Data*, 11(1):72, 2024.  
   （Nature子刊，ESI高被引，JCR Q1，IF: 9.8）
-
+- Chen Z, Yang J, Zhou F. RailSegVITNet: A lightweight VIT-based real-time track surface segmentation network for improving railroad safety[J]. *Journal of King Saud University-Computer and Information Sciences*, 36(1):101929, 2024.  
+  （JCR Q1，IF: 6.9）
 - Feng Z, Yang J, Chen Z, et al. LRseg: An efficient railway region extraction method based on lightweight encoder and self-correcting decoder[J]. *Expert Systems with Applications*, 238:122386, 2024.  
   （中科院1区Top期刊，IF: 7.9）
-
 - Feng Z, Yang J, Chen Z, et al. Pseudo-Multimodal Lane Segmentation Method Based on Inaccurate Depth Information for Intelligent Vehicles[J]. *IEEE Transactions on Intelligent Vehicles*, 2024.  
   （中科院1区Top期刊，IF: 14.0）
-
 - Li F, Chen Z, Yang J, et al. Electric trucks pantograph-catenary interaction condition monitoring method based on semantic segmentation network and linear fitting[J]. *Physica Scripta*, 99(12):126005, 2024.  
   （SCI期刊）
-
 - 陈丽芳, 杨火根, 陈智超, 杨杰. B样条技术与遗传算法融合的全局路径规划[J]. *浙江大学学报(工学版)*, 58(12):2520–2530, 2024.  
   （卓越期刊梯队计划，EI期刊）
 
