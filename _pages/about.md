@@ -19,7 +19,6 @@ redirect_from:
 # 👤 个人简介
 围绕智能、绿色和安全的轨道交通发展需求，基于人工智能算法创新与多传感器数据融合互补的理念，提出一系列基于视觉、多模态信息融合的轻量化感知方法，为提升列车辅助驾驶、预警感知和事故溯源等方面的安全技术水平提供理论基础和工程参考。在学术成果方面，谷歌学术被引500次，其中包含2篇高被引论文。一作在《Resources, Conservation and Recycling》（IF:13.2）、《Automation in Construction》（IF: 10.3）、《IEEE Transactions on
 Circuits and Systems for Video Technology》（IF:11.2）、《Scientific Data》（IF:9.8）、《Measurement》（IF:5.6）等权威期刊发表12篇SCI或EI检索论文。在创新实践方面，以队长身份在研究生电子设计竞赛和华为杯物联网大赛中均获全国一等奖。在校期间表现优异，获得博士研究生国家奖学金，江西省政府奖学金。
----
 <hr style="border: none; border-top: 1.5px solid #000;" />
 主要研究领域包括：
 - 二维/三维智能感知
@@ -30,11 +29,11 @@ Circuits and Systems for Video Technology》（IF:11.2）、《Scientific Data�
 - 嵌入式开发
 - 大模型分布式训练
 - 自动驾驶
-<hr style="border: none; border-top: 1.5px solid #000;" />
-  
-<span class='anchor' id='-lwzl'></span>
 
+<hr style="border: none; border-top: 1.5px solid #000;" />  
+<span class='anchor' id='-lwzl'></span>
 # 📚 论文发表
+<hr style="border: none; border-top: 0.5px solid #000;" />
 ## 2025
 - **Chen Z**, Yang J, Li F, Feng Z, Chen L, Jia L, & Li P. *Foreign Object Detection Method for Railway Catenary Based on a Scarce Image Generation Model and Lightweight Perception Architecture* [J]. IEEE Transactions on Circuits and Systems for Video Technology, 2025. (<span style="color:red">中科院 1 区 Top 期刊, IF: 11.2</span>)
 - Chen L, **Chen Z**, Yan L, Chen Y, Guan F, Li P. *Optimal Distributed Training With Co-Adaptive Data Parallelism in Heterogeneous Environments* [C] // *IJCAI 2025* ( <span style="color:red">CCF A, AI顶会</span>)
@@ -67,17 +66,15 @@ Circuits and Systems for Video Technology》（IF:11.2）、《Scientific Data�
 - **陈智超**, 焦海宁, 杨杰, 曾华福. *基于改进MobileNet v2的垃圾图像分类算法* [J]. 浙江大学学报(工学版), 55(08):1490–1499, 2021. (<span style="color:red">中国知网高被引论文</span>, 卓越期刊梯队计划, EI期刊)
 
 <hr style="border: none; border-top: 1.5px solid #000;" />
-# 专利/软件著作权
----
+# 📜专利/软件著作权
 - 国家发明专利获批, 垃圾分类方法，ZL202011461877.2(导师第一，本人第二)
 - 发明专利受理，悬挂式永磁磁浮轨道梁内宽检测装置(排名第 4)
 - 软件著作权，悬挂式空轨野外无线数据采集系统，2023SR0794864(排名第 1)
 
 
 
-
+<hr style="border: none; border-top: 1.5px solid #000;" />
 # ✒️ 学术兼职
----
 长期担任以下期刊/会议的审稿人：
 - IEEE T-ITS(1区Top期刊)
 - IJCAI(CCF A类会议)
@@ -88,15 +85,19 @@ Circuits and Systems for Video Technology》（IF:11.2）、《Scientific Data�
 
 <span class='anchor' id='-ryjx'></span>
 
-
-
+<hr style="border: none; border-top: 1.5px solid #000;" />
+# 🏛️ 学术会议
+- *2024.10*, 中国计算机大会(2024), 浙江省 横店, 参会
+- *2023.12*, 2023年轨道交通电气与信息技术国际会议(EITRT 2023), 北京市, 受邀报告
+  
+<hr style="border: none; border-top: 1.5px solid #000;" />
 # 🎖️ 荣誉奖项
-
+<hr style="border: none; border-top: 0.5px solid #000;" />
 ## 🎗️ 个人荣誉
 - *2024.05* 江西省政府研究生奖学金（博士）
 - *2022.12* 博士研究生国家奖学金
 - *2022.06* 江西省研究生十佳实践之星提名奖
-
+<hr style="border: none; border-top: 0.5px solid #000;" />
 ## 📜 学科竞赛
 - *2022.11* 第十届全国大学生数字媒体科技作品及创意竞赛 — 全国一等奖（排名第2） / 中国人工智能学会
 - *2022.08* 江西省研究生数学建模竞赛 — 一等奖（排名第1） / 江西省人民政府学位委员会
@@ -106,13 +107,11 @@ Circuits and Systems for Video Technology》（IF:11.2）、《Scientific Data�
 - *2021.12* 全国三维数字化创新设计大赛江西赛区 — 特等奖（排名第2） / 全国三维数字化创新设计大赛组委会
 - *2020.08* 华为杯全国大学生物联网设计竞赛 — 全国一等奖并位列全国六强 / 全国高等学校计算机教育研究会 / 华为
 - *2020.08* 第十五届中国研究生电子设计竞赛 — 华中赛区一等奖 / 中国学位与研究生教育学会
-# 🏛️ 学术会议
-- *2024.10*, 中国计算机大会(2024), 浙江省 横店, 参会
-- *2023.12*, 2023年轨道交通电气与信息技术国际会议(EITRT 2023), 北京市, 受邀报告
 
 
-<span class='anchor' id='-gzsx'></span>
 
+
+<hr style="border: none; border-top: 1.5px solid #000;" />
 # 🔬 参与的科研项目
 - “基于人工智能的视觉融合感知方法研究”，赣州市重点研发项目，Z2024ZDZ007
 - “低成本小运量磁浮客货运输系统”，十四五”国家重点研发计划项目，2023YFB4302101
