@@ -42,10 +42,10 @@ Circuits and Systems for Video Technology》（IF:8.3）、《Scientific Data》
 ---
 
 ## 2025
-
-- **Chen L**, **Chen Z**, Yan L, Chen Y, Guan F, Li P. *Optimal Distributed Training With Co-Adaptive Data Parallelism in Heterogeneous Environments* [C] // *IJCAI 2025* (CCF A, AI顶会)
+- **Chen Z**, Yang J, Li F, Feng Z, Chen L, Jia L, & Li P. *Foreign Object Detection Method for Railway Catenary Based on a Scarce Image Generation Model and Lightweight Perception Architecture* [J]. IEEE Transactions on Circuits and Systems for Video Technology, 2025. (中科院 1 区 <span style="color:red">Top 期刊</span>, IF: 11.2)
+- Chen L, **Chen Z**, Yan L, Chen Y, Guan F, Li P. *Optimal Distributed Training With Co-Adaptive Data Parallelism in Heterogeneous Environments* [C] // *IJCAI 2025* ( <span style="color:red">CCF A</span>, AI顶会)
 - **陈智超**, 杨杰, 李凡, 冯志成. *基于深度学习的列车运行环境感知关键算法研究综述* [J]. 浙江大学学报(工学版), 59(01):1–17, 2025. (卓越期刊梯队计划, EI期刊)
-
+- Xiong X, Yang J, Li F, Jiang Y, **Chen Z**, & Feng Z. *DMSC-Net: a multimodal pedestrian detection network based on infrared and visible image fusion* [J]. Measurement Science and Technology, 36(5):055407, 2025. （SCI）
 ## 2024
 
 - **Chen Z**, Yang J, Feng Z, et al. *RailFOD23: A dataset for foreign object detection on railroad transmission lines* [J]. Scientific Data, 11(1):72, 2024. (Nature 子刊, <span style="color:red">ESI Top 1% 高被引🏆</span>, JCR Q1, IF: 9.8)
