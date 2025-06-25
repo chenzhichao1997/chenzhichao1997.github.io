@@ -76,7 +76,7 @@ redirect_from:
 <hr style="border: none; border-top: 0.5px solid #000;" />
 ## 2024
 - **Chen Z**, Yang J, Feng Z, et al. *RailFOD23: A dataset for foreign object detection on railroad transmission lines* [J]. Scientific Data, 11(1):72, 2024. <span style="color:red">（🏆 ESI Top 1% 高被引,  JCR Q1, IF: 9.8）</span>
-- **Chen Z**, Yang J, Zhou F. *RailSegVITNet: A lightweight VIT-based real-time track surface segmentation network for improving railroad safety* [J]. Journal of King Saud University-Computer and Information Sciences, 36(1):101929, 2024. <span style="color:red">（JCR Q1, IF: 6.9）</span>
+- **Chen Z**, Yang J, Zhou F. *RailSegVITNet: A lightweight VIT-based real-time track surface segmentation network for improving railroad safety* [J]. Journal of King Saud University-Computer and Information Sciences, 36(1):101929, 2024. （JCR Q1, IF: 6.9）
 - Feng Z, Yang J, **Chen Z**, et al. *LRseg: An efficient railway region extraction method based on lightweight encoder and self-correcting decoder* [J]. Expert Systems with Applications, 238:122386, 2024. <span style="color:red">（🔝 中科院 1 区 Top 期刊, IF: 7.9）</span>
 - Feng Z, Yang J, **Chen Z**, et al. *Pseudo-Multimodal Lane Segmentation Method Based on Inaccurate Depth Information for Intelligent Vehicles* [J]. IEEE Transactions on Intelligent Vehicles, 2024. <span style="color:red">（🔝 中科院 1 区 Top 期刊, IF: 14.0）</span>
 - Li F, **Chen Z**, Yang J, et al. *Electric trucks pantograph-catenary interaction condition monitoring method based on semantic segmentation network and linear fitting* [J]. Physica Scripta, 99(12):126005, 2024. （SCI）
@@ -88,7 +88,7 @@ redirect_from:
 ## 2023
 - **Chen Z**, Yang J, Chen L, et al. *Efficient railway track region segmentation algorithm based on lightweight neural network and cross-fusion decoder* [J]. Automation in Construction, 155:105069, 2023. <span style="color:red">（🔝 中科院 1 区 Top 期刊, IF: 10.3）</span>
 - **Chen Z**, Yang J, Feng Z, et al. *BiShuffleNeXt: a lightweight bi-path network for remote sensing scene classification* [J]. Measurement, 209:112537, 2023. <span style="color:red">（JCR Q1, 🔝 Top 期刊, IF: 5.2）</span>
-- **Chen Z**, Yang J, Yang C. *Brightsightnet: A lightweight progressive low-light image enhancement network and its application in “rainbow” maglev train* [J]. Journal of King Saud University-Computer and Information Sciences, 35(10):101814, 2023. <span style="color:red">（JCR Q1, IF: 6.9）</span>
+- **Chen Z**, Yang J, Yang C. *Brightsightnet: A lightweight progressive low-light image enhancement network and its application in “rainbow” maglev train* [J]. Journal of King Saud University-Computer and Information Sciences, 35(10):101814, 2023. （JCR Q1, IF: 6.9）
 - **Chen Z**, Yang J, Li F, et al. *Real-Time Low-Light Image Enhancement Method for Train Driving Scene Based on Improved Zero-DCE* [C] // International Conference on Electrical and Information Technologies for Rail Transportation, Springer, 2023:9–18. （EI检索）
 - 刘朝辉, 杨杰, **陈智超**. *基于深度学习的轨道表面异物识别方法* [J]. 中国铁道科学, 44(03):23–33, 2023. （卓越期刊梯队计划, EI期刊）
 
