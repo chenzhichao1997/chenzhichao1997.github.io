@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "陈智超"
-description              : "轨道交通人工智能"
+description              : "人工智能"
 repository               : "https://chenzhichao1997.github.io/"
 google_scholar_stats_use_cdn : false
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "陈智超"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "江西理工大学"
-  location         : "江西赣州"
+  bio              : "工学博士"
+  location         : 
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=cMRTQosAAAAJ&hl"
