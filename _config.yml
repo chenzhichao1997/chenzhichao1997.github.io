@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "陈智超"
-description              : "人工智能"
-repository               : "https://chenzhichao1997.github.io/"
+description              : 
+repository               : 
 google_scholar_stats_use_cdn : false
 
 # google analytics
