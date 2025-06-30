@@ -20,7 +20,7 @@ redirect_from:
 <section class="max-w-4xl mx-auto px-4 py-10">
   <h2 class="text-2xl font-bold mb-4">👤 个人简介</h2>
   <p class="text-gray-700 leading-relaxed mb-4">
-    陈智超，1997年11月生，中共党员，工学博士(硕博连读)。主要从事工程技术领域的科研工作，研究方向涵盖计算机视觉、多模态数据融合与智能感知系统，聚焦于智能轨道交通、机器人感知、自动驾驶等复杂场景下的环境理解与信息提取。
+    陈智超，1997年11月生，中共党员，工学博士(保研/硕博连读)。主要从事工程技术领域的科研工作，研究方向涵盖计算机视觉、多模态数据融合与智能感知系统，聚焦于智能轨道交通、机器人感知、自动驾驶等复杂场景下的环境理解与信息提取。
   </p>
   <p class="text-gray-700 leading-relaxed mb-4">
     攻读博士期间，面向列车安全防护与自动驾驶关键需求，提出了一系列轻量化、多源融合的智能感知算法，研究成果以第一作者身份在《Resources, Conservation and Recycling》（IF:13.2）、《Automation in Construction》（IF:11.3）、《IEEE Transactions on Circuits and Systems for Video Technology》（IF:11.2）、《Scientific Data》（IF：9.8）、《Measurement》（IF：5.6）等国际权威期刊发表多篇高水平论文，Google Scholar 总引用超过 500 次。
