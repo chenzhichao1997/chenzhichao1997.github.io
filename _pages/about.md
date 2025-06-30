@@ -63,6 +63,23 @@ redirect_from:
 </section>
 
 
+<span class='anchor' id='news'></span>
+
+<hr style="border: none; border-top: 1.5px solid #000;" />
+<!-- 📢 最新动态 -->
+<section class="max-w-4xl mx-auto px-4 py-10">
+  <h2 class="text-2xl font-bold mb-4">📢 最新动态 News</h2>
+  <ul class="list-disc list-inside text-gray-700 space-y-2">
+    <li><strong>2025.06：</strong>指导学生项目荣获 <span class="text-blue-600 font-medium">江西省“挑战杯”大学生课外学术科技作品竞赛科技发明制作类 A 类一等奖</span>。</li>
+    <li><strong>2025.06：</strong>合作论文 <em>“Image-Goal Navigation Using Refined Feature Guidance and Scene Graph Enhancement”</em> 被 <span class="text-blue-600 font-medium">IROS 2025（IEEE/RSJ 机器人顶会）</span> 接收（共同作者）。</li>
+    <li><strong>2025.05：</strong>指导本科生以第一作者身份在 <em>CMC-Computers, Materials & Continua</em> 期刊（SCI）发表 <span class="text-blue-600 font-medium">论文</span>。</li>
+  </ul>
+</section>
+
+
+
+
+
 <hr style="border: none; border-top: 1.5px solid #000;" />  
 <span class='anchor' id='-lwzl'></span>
 # 📚 论文发表
