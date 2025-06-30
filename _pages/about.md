@@ -92,7 +92,7 @@ redirect_from:
 
 - **陈智超**, 杨杰, 李凡, 冯志成. *基于深度学习的列车运行环境感知关键算法研究综述* [J]. 浙江大学学报(工学版), 59(01):1–17, 2025. （卓越期刊梯队计划, EI期刊）
 - Xiong X, Yang J, Li F, Jiang Y, **Chen Z**, & Feng Z. *DMSC-Net: a multimodal pedestrian detection network based on infrared and visible image fusion* [J]. Measurement Science and Technology, 36(5):055407, 2025. （SCI）
-- 张振利,胡新凯,李凡,冯志成,**陈智超**.基于CNN和Efficient Transformer的多尺度遥感图像语义分割算法[J].浙江大学学报(工学版),2025,59(04):778-786. （卓越期刊梯队计划, EI期刊）
+- 张振利,胡新凯,李凡,冯志成,**陈智超**.基于CNN和Efficient Transformer的多尺度遥感图像语义分割算法[J]. 浙江大学学报(工学版), 2025,59(04):778-786. （卓越期刊梯队计划, EI期刊）
 
 <hr style="border: none; border-top: 0.5px solid #000;" />
 ## 2024
