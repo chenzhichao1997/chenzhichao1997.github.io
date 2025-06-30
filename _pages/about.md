@@ -23,7 +23,7 @@ redirect_from:
     陈智超，1997年11月生，中共党员，工学博士(硕博连读)。主要从事工程技术领域的科研工作，研究方向涵盖计算机视觉、多模态数据融合与智能感知系统，聚焦于智能轨道交通、机器人感知、自动驾驶等复杂场景下的环境理解与信息提取。
   </p>
   <p class="text-gray-700 leading-relaxed mb-4">
-    攻读博士期间，面向列车安全防护与自动驾驶关键需求，提出了一系列轻量化、多源融合的智能感知算法，研究成果以第一作者身份在《Resources, Conservation and Recycling》（IF:13.2）、《Automation in Construction》（IF:10.3）、《IEEE Transactions on Circuits and Systems for Video Technology》（IF:11.2）、《Scientific Data》（IF：9.8）等国际权威期刊发表多篇高水平论文，Google Scholar 总引用超过 500 次。
+    攻读博士期间，面向列车安全防护与自动驾驶关键需求，提出了一系列轻量化、多源融合的智能感知算法，研究成果以第一作者身份在《Resources, Conservation and Recycling》（IF:13.2）、《Automation in Construction》（IF:11.3）、《IEEE Transactions on Circuits and Systems for Video Technology》（IF:11.2）、《Scientific Data》（IF：9.8）、《Measurement》（IF：5.6）等国际权威期刊发表多篇高水平论文，Google Scholar 总引用超过 500 次。
   </p>
   <p class="text-gray-700 leading-relaxed mb-4">
     曾获博士研究生国家奖学金、江西省政府奖学金、“校十佳大学生”等多项荣誉。作为队长带领团队在研究生电子设计竞赛、华为杯物联网大赛中荣获全国一等奖。研究成果已在列车辅助驾驶系统优化、事故溯源分析等多个工程实践项目中成功应用，具备良好的科研创新能力与工程转化能力。
@@ -46,6 +46,7 @@ redirect_from:
     <li>嵌入式智能系统开发</li>
     <li>大模型的分布式训练与部署</li>
     <li>自动驾驶与智能决策</li>
+    <li>工业异常检测</li>
   </ul>
   <p class="text-gray-700 leading-relaxed mb-4">
     欢迎对<strong>人工智能、电子信息、嵌入式系统、物联网</strong>等方向感兴趣的同学报考硕士研究生，或以本科生身份参与科研项目。我们相信，每个人都有属于自己的节奏和闪光点。
